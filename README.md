@@ -1,2 +1,2 @@
-# wxMini
-微信小程序
+# gaocloud-mina
+
